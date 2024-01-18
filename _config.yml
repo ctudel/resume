@@ -67,7 +67,7 @@ content:
            Implementation of a BTree data structure for effectively handling and managing a large set of data with varying degree, allowing for efficient insertion and searching of data.
         description: |
            I developed this project as part of a team on, utilizing github as our primary version control. I have learned many skills required to work effectively on a team, efficiently developing a BTree while practicing agile development.
-           
+
   - title: Relative Course Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -100,7 +100,7 @@ content:
     content:
       - layout: left
         title: Boise State University
-        caption: 2021 - 2025
+        caption: "3.8 gpa, 2021 - 2025"
         sub_title: BSc Computer Science
         quote: >
           Situated in the bustling metropolis of Boise, Idaho, Boise State University is a shining example of academic excellence and innovation. Boise State, which is well-known for its dedication to encouraging creativity and critical thinking, provides students with a dynamic learning environment that equips them for success in a world that is always changing.
