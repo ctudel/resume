@@ -6,13 +6,12 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Chris Tudela
+title: CS University Student
+email: christudela@u.boisestate.edu
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username:  ctudel
@@ -56,21 +55,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        title: Stardew Valley
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+           Implements the back-end logic for Stardew Valley using a Heap Sort data structure algorithm, which will organize tasks and objectives based on a random generator and priority queue.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+           Initiated as a learning endeavor in <mark>Data Structures</mark>, this project has evolved into a comprehensive implementation of the popular game, Stardew Valley. Throughout its development, I honed valuable skills in strategic planning and implementing of efficient data structures, contributing to the optimization and enhancement of the entire program.
 
+      - layout: top-middle
+        title: BTree
+        quote: >
+           Implementation of a BTree data structure for effectively handling and managing a large set of data with varying degree, allowing for efficient insertion and searching of data.
+        description: |
+           I developed this project as part of a team on, utilizing github as our primary version control. I have learned many skills required to work effectively on a team, efficiently developing a BTree while practicing agile development.
+           
   - title: Relative Course Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -81,7 +78,7 @@ content:
            Involves understanding the fundamental concepts of data structures — the building blocks that empower computer programs to handle, store, and manipulate information. 
         description: | # this will include new lines to allow paragraphs
             The course in Data Structures serves as a cornerstone in my academic journey, providing me with a solid foundation in organizing and managing data to develop efficient problem-solving in computer science.
-    content:
+    
       - layout: left
         title: Programming Languages
         caption: Present
@@ -89,9 +86,9 @@ content:
            Teaches the principles and constructs of programming languages. Providing a deeper understanding of design, syntax, semantics, and more.
         description: |
            This course is valuable in gaining experience through hands-on exercises and projects to gain proficiency in writing clear, efficient code across different languages.
-    content:
-      - layout:
-        title: Computer Science II
+    
+      - layout: left
+        title: CS II
         caption: Jan 2023 - May 2023
         quote: >
            Explored the principles of object-oriented design, encompassing inheritance, polymorphism, recursion, and dynamic binding. 
