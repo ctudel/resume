@@ -16,7 +16,7 @@ I'm open to opportunities and collaborations. If you have any inquiries or would
 
 ## License
 
-This resume is available under the [MIT License](LICENSE). Feel free to use it as a template for your own resume.
+This resume is available under the [GNU General Public License](LICENSE). Feel free to use it as a template for your own resume.
 
 ---
 
